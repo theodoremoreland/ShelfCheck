@@ -39,7 +39,7 @@ This repository features a project that was originally a part of a different rep
 ### WARNING 
 __Once macros are run, Excel does not allow reverting any changes made to worksheets.__                               
 
-- Click on the ShelfCheck "xlsm" file within this repo.
+- Click on the ShelfCheck "xlsm" file within the "demo" folder.
 - Find and click the "Download" button for the "xlsm" file.
 - Open the Excel file and enable editing and macros, when prompted.
 - Locate the "customize quick access toolbar" on the upper left-hand corner of the Excel window
