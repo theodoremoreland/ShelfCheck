@@ -13,25 +13,25 @@ This repository features a project that was originally a part of a different rep
 # DEMONSTRATION:
 
 # BEFORE SCANNING
-<img src="images/sc1.PNG" width="900">
+<img src="presentation/1.PNG" width="900">
 
 # AFTER NORMAL SCAN
-<img src="images/sc2.PNG" width="900">
+<img src="presentation/2.PNG" width="900">
 
 # AFTER DUPLICATE SCAN (SAME LOCATION)
-<img src="images/sc3.PNG" width="900">
+<img src="presentation/3.PNG" width="900">
 
 # AFTER DUPLICATE SCAN (DIFFERENT LOCATION)
-<img src="images/sc4.PNG" width="900">
+<img src="presentation/4.PNG" width="900">
 
 # BEFORE VERIFYING BARCODES
-<img src="images/sc5.PNG" width="900">
+<img src="presentation/5.PNG" width="900">
 
 # AFTER VERIFICATION
-<img src="images/sc6.PNG" width="900">
+<img src="presentation/6.PNG" width="900">
 
 # AFTER VERIFICATION FAILS
-<img src="images/sc7.PNG" width="900">
+<img src="presentation/7.PNG" width="900">
     
 
 ## HOW TO USE THE MACRO
